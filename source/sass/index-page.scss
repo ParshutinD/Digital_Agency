@@ -243,7 +243,7 @@
 }
 
 .best-choice__video {
-  width: 100%;
+  max-width: 100%;
   position: relative;
   padding-bottom: 150px;
   @media (max-width: $mobile-width) {
